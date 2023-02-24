@@ -1,0 +1,1 @@
+/mnt/e/Sx/Programming/osci/build/CMakeFiles/osci.dir

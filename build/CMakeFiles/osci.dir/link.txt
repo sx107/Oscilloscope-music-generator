@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11    CMakeFiles/osci.dir/main.cc.o CMakeFiles/osci.dir/src/AudioFile.cc.o CMakeFiles/osci.dir/src/point.cc.o CMakeFiles/osci.dir/src/sceneSettings.cc.o CMakeFiles/osci.dir/src/simpleGenerator.cc.o CMakeFiles/osci.dir/src/svf.cc.o CMakeFiles/osci.dir/src/text.cc.o  -o osci -rdynamic -lboost_system -lboost_filesystem -lboost_iostreams 
